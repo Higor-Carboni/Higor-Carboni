@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de evoluir. Ten
 - 🧠 **JavaScript** – lógica, interatividade e dinamismo para interfaces modernas.
 - ⚛️ **React** – desenvolvimento de interfaces reativas e componentizadas.
 - 🐘 **PHP** – aplicações web com foco em back-end e integração com banco de dados.
-- ☕ **Java** – foco em lógica de programação e desenvolvimento desktop (Swing).
+- ☕ **Java** – foco em lógica de programação.
 
 ## 🚀 Meu objetivo
 

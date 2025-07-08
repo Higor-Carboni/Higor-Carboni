@@ -20,5 +20,5 @@ Aprender mais todos os dias, enfrentar novos desafios e colaborar com projetos q
 
 ## 📫 Como me encontrar:
 
-- GitHub: [Higor-Carboni]
-- Email: [ohigor.carboni@gmail.com]
+- GitHub: Higor-Carboni
+- Email: ohigor.carboni@gmail.com
